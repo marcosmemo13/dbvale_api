@@ -1,0 +1,13 @@
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\bin\Debug\netcoreapp2.2\DbValeApi.deps.json
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\bin\Debug\netcoreapp2.2\DbValeApi.runtimeconfig.json
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\bin\Debug\netcoreapp2.2\DbValeApi.runtimeconfig.dev.json
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\bin\Debug\netcoreapp2.2\DbValeApi.dll
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.RazorAssemblyInfo.cache
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.RazorAssemblyInfo.cs
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.AssemblyInfoInputs.cache
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.AssemblyInfo.cs
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.RazorTargetAssemblyInfo.cache
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\bin\Debug\netcoreapp2.2\DbValeApi.pdb
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.dll
+C:\Users\marcos.hernandez\Documents\git\DbVale\dbvale_api\DbValeApi\DbValeApi\obj\Debug\netcoreapp2.2\DbValeApi.pdb
